@@ -1,0 +1,11 @@
+p#text{
+    background-color: teal;
+    padding: 5px;
+    border-left: 3px;
+    border-color: tomato;
+    font-size: 50px;
+}
+#ptest{
+    background-color: teal;
+    border-left-color: springgreen;
+}
